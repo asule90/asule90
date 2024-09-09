@@ -8,7 +8,7 @@ Software Engineer with more than 10 years of experiences, and was also a Tech Le
 
 Besides multiple programming languages capabilities, I am quite familiar with linux & docker environment, Cloud Infra, CI/CD and Observability.
 
-In his spare time, he enjoys running and hanging out with his family.
+In my spare time, i enjoy running and hanging out with my family.
 
 ## My Articles
 - [Service Orchestration Menggunakan Nomad Untuk Pemula](https://medium.com/efishery-engineering/service-orchestration-menggunakan-nomad-untuk-pemula-bea577518469)
