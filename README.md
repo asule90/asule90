@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 
-Software Engineer with more than 10 years of experiences, and was also a Tech Lead at efishery. Previously I helped medical equipment manufacturer to implement a fully optimized engineering deliveries.
+oftware Technical Lead with over 10 years of experience driving product development, system integration, and engineering best practices. At Rey.id, I lead technical initiatives that optimize performance, strengthen security, and reduce costs.
 
-Besides multiple programming languages capabilities, I am quite familiar with linux & docker environment, Cloud Infra, CI/CD and Observability.
+My expertise spans Node.js, Golang, PHP (Laravel), and Vue.js, with strong proficiency in Linux, Docker, cloud infrastructure, CI/CD pipelines, and observability tools. I enjoy architecting scalable, secure systems that deliver measurable business impact.
 
 In my spare time, i enjoy running and hanging out with my family.
 
@@ -22,6 +22,7 @@ In my spare time, i enjoy running and hanging out with my family.
 
 - 🚀 Kafka in depth
 - 🛞 Kubernetes
+- AI engineering
 
 
  ## 🏆 Achievements
