@@ -1,10 +1,10 @@
 # Hi, I'm Asep Sulaeman! 👋
 
-![asule90's Stats](https://github-readme-stats.vercel.app/api?username=asule90&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![asule90's Stats](https://github-stats-extended.vercel.app/api?username=asule90&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-oftware Technical Lead with over 10 years of experience driving product development, system integration, and engineering best practices. At Rey.id, I lead technical initiatives that optimize performance, strengthen security, and reduce costs.
+Engineering Manager with over 10 years of experience driving product development, system integration, and engineering best practices. At Rey.id, I lead technical initiatives that optimize performance, strengthen security, and reduce costs.
 
 My expertise spans Node.js, Golang, PHP (Laravel), and Vue.js, with strong proficiency in Linux, Docker, cloud infrastructure, CI/CD pipelines, and observability tools. I enjoy architecting scalable, secure systems that deliver measurable business impact.
 
